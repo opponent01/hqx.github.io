@@ -7,9 +7,11 @@ Week1-2作业
 ![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/1.2.png)
 ![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/1.3.png)
 
-2.1 2.2
+2.1 2.2 2.3 2.4
 ![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/2.1.png)
 ![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/2.2.png)
+![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/2.3.png)
+![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/2.4.png)
 
 3
 ![image](https://github.com/opponet/hqx.github.io/blob/main/Week1-2/3.png)
